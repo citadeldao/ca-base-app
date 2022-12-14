@@ -1,0 +1,20 @@
+{
+    "TABBAR": {
+        "BACKGROUND_COLOR": "#3C356D",
+        "DEFAULT_ITEM_COLOR": "#FFF",
+        "ACTIVE_ITEM_COLOR": "#FFFFFF",
+        "HOVER_ITEM_COLOR": "#979EFE",
+        "DISABLE_ITEM_COLOR": "#979EFE",
+        "TABBAR_ITEMS": [
+            {"TITLE": "Send", "ICON": "bridge", "ROUTES": "send"}
+        ]
+    },
+    "HEADER": {
+        "TITLE": "Home",
+        "BACK_BUTTON": true,
+        "BACK_TITLE": "Back",
+        "BACKGROUND_COLOR": "#FFF"
+    },
+    "DEFAULT_ADDRESS_BLOCK": true
+}
+

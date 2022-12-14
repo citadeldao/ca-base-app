@@ -1,0 +1,14 @@
+.description-text{
+    margin: 10px 0 !important;
+}
+
+.select-address-card{
+    margin: 24px 30px 0;
+    margin-bottom: 0 !important;
+}
+
+@media screen and (max-width: 800px){
+    .select-address-card{
+        margin: 16px 16px 0;
+    }
+}

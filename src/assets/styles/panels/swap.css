@@ -1,0 +1,16 @@
+.swap-center-btn{
+    position: absolute;
+    left: 45%;
+    top: 36%;
+    z-index: 1;
+}
+
+.swap-inputs{
+    position: relative;
+}
+
+@media screen and (max-width: 500px) {
+    .swap-center-btn{
+        left: 42%;
+    }
+}

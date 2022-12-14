@@ -1,0 +1,40 @@
+{
+    "TABBAR": {
+        "BACKGROUND_COLOR": "#00BFDB",
+        "DEFAULT_ITEM_COLOR": "#004149",
+        "ACTIVE_ITEM_COLOR": "#fff",
+        "HOVER_ITEM_COLOR": "rgba(0, 65, 73, 0.7)",
+        "DISABLE_ITEM_COLOR": "#f5f5f5",
+        "TABBAR_ITEMS": [
+            {"TITLE": "Address list", "ICON": "arrow-rotate-up", "ROUTES": "/"},
+            {"TITLE": "Transactions", "ICON": "square-list", "ROUTES": "/main/transactions"}
+        ]
+    },
+    "HEADER": {
+        "TITLE": "App header",
+        "BACK_TITLE": "Back",
+        "BACKGROUND_COLOR": "#FFF",
+        "TOP_BACKGROUND_COLOR": "#00BFDB"
+    },
+    "SPLASH": {
+        "title": "Splash screen",
+        "description": "Configure your splash screen in custom-config.json!",
+        "background_color": "#170A52",
+        "background": "bg.svg",
+        "circle_1": "#7C63F5",
+        "circle_2": "rgba(99, 84, 180, 0.5)",
+        "circle_3": "rgba(99, 84, 180, 0.2)",
+        "circle_4": "rgba(255, 255, 255, 0.1)",
+        "textColor": "#FFFFFF",
+        "mobileTextColor": "#FFFFFF",
+        "iconColor": "",
+        "mobileIconColor": "",
+        "logo": "logo.svg",
+        "logoStyleMOB": {
+            "width": "35%"
+        },
+        "logoStyleWEB": {}
+    },
+    "DEFAULT_ADDRESS_BLOCK": true
+}
+

@@ -1,0 +1,23 @@
+:root {
+  --appThemeColor: white; 
+}
+html, body {
+  height: 100%;
+  margin: 0px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+::-webkit-scrollbar {
+  width: 4px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--appThemeColor); 
+}
